@@ -4,14 +4,14 @@
 
 ## Design view 
 
-============================================
-[1] -------- Add a new song ---------------]
-[2] -------- Remove a song by ID ----------]
-[3] -------- Display Playlist -------------]
-[4] -------- Display in Reverse order -----]
-[5] -------- Search a song by ID ----------]
-[6] -------- Exit Program -----------------]
-============================================
+- ============================================
+- [1] -------- Add a new song ---------------]
+- [2] -------- Remove a song by ID ----------]
+- [3] -------- Display Playlist -------------]
+- [4] -------- Display in Reverse order -----]
+- [5] -------- Search a song by ID ----------]
+- [6] -------- Exit Program -----------------]
+- ============================================
 Input your choice (numeric only):
 
 ## Add a new song to the playlist.
