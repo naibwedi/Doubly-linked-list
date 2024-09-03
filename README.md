@@ -1,8 +1,8 @@
-##Playlist Management System
+## Playlist Management System
 
 #Description: The Playlist Management System is a C++ program that uses a doubly linked list to manage a list of songs. Each song is uniquely identified by an ID and has associated information such as the title and artist. The system allows users to perform the following operations:
 
-##Design view 
+## Design view 
 
 ============================================
 [1] -------- Add a new song ---------------]
@@ -14,7 +14,7 @@
 ============================================
 Input your choice (numeric only):
 
-##Add a new song to the playlist.
+## Add a new song to the playlist.
 Remove a song from the playlist by its ID.
 Display the entire playlist in the order songs were added.
 Display the playlist in reverse order.
@@ -34,7 +34,7 @@ Node: Represents a single song in the playlist.
 Playlist: Manages the operations on the playlist such as adding, removing, displaying, and searching for songs.
 User Interaction: The main function provides a menu-driven interface allowing the user to interact with the playlist by choosing various operations.
 
-##Error Handling:
+## Error Handling:
 
 The program checks for duplicate song IDs when adding a new song and prompts the user to enter a unique ID if a duplicate is found.
 It handles cases where songs are not found during search or removal operations
