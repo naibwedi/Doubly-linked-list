@@ -3,16 +3,8 @@
 #Description: The Playlist Management System is a C++ program that uses a doubly linked list to manage a list of songs. Each song is uniquely identified by an ID and has associated information such as the title and artist. The system allows users to perform the following operations:
 
 ## Design view 
+![image](https://github.com/user-attachments/assets/cfc0b44a-ea61-455a-bd83-8ec595b2e7bf)
 
-- ============================================
-- [1] -------- Add a new song ---------------]
-- [2] -------- Remove a song by ID ----------]
-- [3] -------- Display Playlist -------------]
-- [4] -------- Display in Reverse order -----]
-- [5] -------- Search a song by ID ----------]
-- [6] -------- Exit Program -----------------]
-- ============================================
-Input your choice (numeric only):
 
 ## Add a new song to the playlist.
 Remove a song from the playlist by its ID.
