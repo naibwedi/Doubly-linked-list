@@ -147,7 +147,13 @@ int main() {
         cout << "============================================\n";
 
         cout << "Input your choice (numeric only): ";
-        cin >> choice;
+        //cin >> choice;
+
+        while (!(cin >> choice)) {
+            cout << "Please enter a number between 1 and 6: ";
+            cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+        }
 
         switch (choice) {
             case 1:
